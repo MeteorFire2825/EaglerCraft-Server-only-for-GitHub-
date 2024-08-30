@@ -1,0 +1,6 @@
+{
+  "server_name": "My Eaglercraft Server",
+  "server_port": 25565,
+  "max_players": 20,
+  "motd": "Welcome to Eaglercraft!"
+}
