@@ -1,2 +1,1 @@
-cd server
-./start.sh
+chmod +x server/start.sh
